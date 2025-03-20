@@ -57,4 +57,6 @@ The dataset comes from the UCI Machine Learning Repository, originally published
 
 ## Credits
 
-This project was developed by Xinwei Li. GitHub: [@li-xinwei](https://github.com/li-xinwei) 
+This project was developed by Xinwei Li. GitHub: [@li-xinwei](https://github.com/li-xinwei)
+
+Project website: [https://li-xinwei.github.io/CharityML/](https://li-xinwei.github.io/CharityML/) 
