@@ -54,3 +54,7 @@ The optimized machine learning model can effectively identify individuals likely
 ## Acknowledgments
 
 The dataset comes from the UCI Machine Learning Repository, originally published in Ron Kohavi and Barry Becker's article "Scaling Up the Accuracy of Naive-Bayes Classifiers: A Decision-Tree Hybrid." 
+
+## Credits
+
+This project was developed by Xinwei Li. GitHub: [@li-xinwei](https://github.com/li-xinwei) 
